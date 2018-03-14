@@ -2,7 +2,7 @@ class BalancoTrimestral{
 
 	public static void main(String[] args){
 		
-		int jan = 15000;
+		int jan = 20000;
 		int fev = 23000;
 		int mar = 17000;
 
